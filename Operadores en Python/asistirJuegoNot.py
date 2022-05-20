@@ -1,5 +1,5 @@
 vacaciones= False
-diaDescanso=True
+diaDescanso=False
 
 if not (vacaciones or diaDescanso):
     print("tiene deberes por hacer")
